@@ -1,5 +1,6 @@
 # PAH
-PAH_script
+In this folder, it includes the scripts used in PAH projects: PAH ped vs. adult and PAH-CHD.
+
 Denovo_enrichment.R: the script used for de novo enrichment test
 PAH-CHD-rare-enrichment.R: the script used for the enrichment test for rare variants.
 SKAT.R: script for the SKAT test
